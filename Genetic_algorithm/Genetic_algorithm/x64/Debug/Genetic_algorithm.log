@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(37,31): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(58,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(67,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(168,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(179,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(209,55): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\Genetic_algorithm\main.cpp(282,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Genetic_algorithm.vcxproj -> C:\Users\alsua\OneDrive\Рабочий стол\Visual Studio\Genetic_algorithm\x64\Debug\Genetic_algorithm.exe

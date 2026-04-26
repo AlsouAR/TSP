@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01371a12-f8b8-410d-9014-4d4e9b8f764b": {
+      "ProjectGuid": "01371a12-f8b8-410d-9014-4d4e9b8f764b",
+      "DisplayName": "коммивояжера 3) ближайший сосед",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
